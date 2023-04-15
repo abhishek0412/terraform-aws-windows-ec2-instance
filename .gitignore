@@ -27,3 +27,10 @@ override.tf.json
 
 # Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 # example: *tfplan*
+
+# Ignoring vscode extension settings
+.vscode
+.prettierrc
+# there are more things that can be ignored.
+
+# Panchsheel Vaishali pushkar road Shashtri 
